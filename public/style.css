@@ -1,0 +1,30 @@
+
+body {
+  background-color: #A6D0D8;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 45px;
+  color: #FFFBEA;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+  font-size: 12px;
+  color: #FFFBEA;
+  text-align: center;
+}
+
+li {
+  font-family: monospace;
+  font-size: 12px;
+  color: #FFFBEA;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
